@@ -13,13 +13,13 @@
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Web Portfolio
 
-My portfolio page is available here:
+My web portfolio page is available here:
 
 **https://roitonen.github.io/portfolio/**
 
-The portfolio page does not include all of my projects. It mainly contains older frontend and data visualization learning projects built with **HTML, CSS, Bootstrap, vanilla JavaScript**, and chart-based UI logic. More technical backend, machine learning, computer vision, and systems-related projects are either private, course-related, or will be presented separately on GitHub.
+This web portfolio does not include all of my projects. It mainly contains older frontend and data visualization learning projects built with **HTML, CSS, Bootstrap, vanilla JavaScript**, and chart-based UI logic. More technical backend, machine learning, computer vision, and systems-related projects are either private, course-related, or will be presented separately on GitHub.
 
 ---
 
