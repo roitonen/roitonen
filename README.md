@@ -31,6 +31,13 @@ TuneDist is a Python/OpenCV tool for manual USB camera lens distortion calibrati
 
 **Tech:** Python · OpenCV · NumPy · Pillow
 
+
+### [Marku](https://marku.app)
+
+Marku is a fast and lightweight Markdown editor for macOS. It combines live preview with full source editing and supports mathematical formulas, Mermaid diagrams, tables, syntax highlighting, tabs, themes, and continuous undo history.
+
+**Tech:** Rust · Tauri · TypeScript · CodeMirror · pulldown-cmark
+
 ---
 
 ## 🛠️ Tech Stack
