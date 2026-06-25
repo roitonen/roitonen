@@ -27,7 +27,7 @@ This web portfolio does not include all of my projects. It mainly contains older
 
 **https://github.com/roitonen/tunedist**
 
-tunedist is a Python/OpenCV tool for manual USB camera lens distortion calibration. It supports a practical workflow: generate a printable calibration grid, tune coefficients using a live camera preview, save calibration files, and reuse the correction in other OpenCV projects.
+**tunedist** is a Python/OpenCV tool for manual USB camera lens distortion calibration. It supports a practical workflow: generate a printable calibration grid, tune coefficients using a live camera preview, save calibration files, and reuse the correction in other OpenCV projects.
 
 **Tech:** Python · OpenCV · NumPy · Pillow
 
